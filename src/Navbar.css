@@ -1,0 +1,88 @@
+
+.fa-phone{
+    color:blue;
+}
+.fa-sticky-note
+{
+  color:rgb(105, 252, 252);
+}
+.fa-user-plus
+{
+  color:rgb(240, 142, 142);
+}
+.fa-sign-in
+{
+  color:yellow;
+}
+.fa-sign-out
+{
+  color:rgb(255, 166, 0);
+}
+.fa-comment
+{
+  color:white;
+}
+#cartnav{
+    color:greenyellow;
+} 
+#welcome{
+    margin-top: 90px;
+}
+#collapsenavbar{
+    font-size: 200%;
+}
+#OCS{
+font-size:25px;
+}
+#ftree{
+    color:cyan;
+}
+
+.dropdown .dropbtn {
+    font-size: 20px; 
+    font-weight:495;
+    font-family: 'Courier New', Courier, monospace;   
+    border: none;
+    outline: none;
+    color:rgb(161, 167, 172);
+    padding: 9px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .dropdown-content {
+      font-size: 18px;
+    display: none;
+    position: absolute;
+    font-family: cursive;
+    background-color:rgb(143, 168, 192);
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* z-index: 1; */
+    border-radius: 10px;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+   /* .dropdown:hover .dropbtn { */
+    /* background-color:black; */
+    /* color:grey; */
+  /* } */
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  

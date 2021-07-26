@@ -1,0 +1,46 @@
+.register{
+    /* background-image: url('./img/register2.jpg'); */
+    /* background-size: 100% 100%;
+    background-attachment: fixed;
+    width:100%;
+    height:100%;
+    margin-top:150px;
+     */
+     height:100%;
+     margin-top:100px;
+     border: 2px solid rgb(230, 227, 227);
+     /* background:linear-gradient(rgb(253, 250, 35),rgb(253, 210, 66),rgb(240, 41, 41)); */
+     /* background:linear-gradient(rgb(68, 126, 2),rgb(202, 3, 3),rgb(48, 230, 108)); */
+     /* background:linear-gradient(rgb(153, 123, 202),rgb(112, 83, 2),rgb(48, 230, 108)); */
+     width:auto;
+}
+.con{
+    margin-top:60px;
+}
+#loginlink{
+    font-size:20px ;
+    margin-left:2%;
+}
+
+#reg {
+    width: 50%;
+    /* padding: 12px 20px; */
+    /* margin: 8px 0; */
+    display: inline-block;
+    /* border: 1px solid #ccc; */
+    /* box-sizing: border-box; */
+    height:30px;
+    font-size:15px;
+  }
+#checkbox1{
+    font-size:20px;
+}
+#reglabel{
+    font-size:20px;
+    font-weight: lighter;
+}
+#regsub{
+    height:40px;
+    width:100px;
+    font-size:15px;
+}
